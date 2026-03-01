@@ -73,12 +73,12 @@
     "redux": "^5.0.1",
     "stream-browserify": "^3.0.0",
     "stream-http": "^3.1.1",
-    "sweetalert2": "^11.10.7",
+    "sweetalert2": "^11.22.4",
     "urijs": "^1.19.11",
     "url": "^0.11.3",
     "util": "^0.12.5",
     "viewerjs": "^1.11.6",
-    "web3": "^1.10.4",
+    "web3": "^4.16.0",
     "web3modal": "^1.9.12",
     "xss": "^1.0.15"
   },
@@ -104,7 +104,7 @@
     "sass": "^1.72.0",
     "sass-loader": "^14.1.1",
     "style-loader": "^3.3.4",
-    "webpack": "^5.91.0",
+    "webpack": "^5.105.3",
     "webpack-cli": "^5.1.4"
   },
   "jest": {
